@@ -1,0 +1,12 @@
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\bin\Debug\Puntodeventa.exe.config
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\bin\Debug\Puntodeventa.exe
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\bin\Debug\Puntodeventa.pdb
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.csprojAssemblyReference.cache
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.Properties.Resources.resources
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.csproj.GenerateResource.cache
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.csproj.CoreCompileInputs.cache
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.exe
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.pdb
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.Login.resources
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.Menuprincipal.resources
+C:\Users\thema.DESKTOP-Q0PPMA2\source\repos\Puntodeventa\Puntodeventa\obj\Debug\Puntodeventa.Clientes.resources
